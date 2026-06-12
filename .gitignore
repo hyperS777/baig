@@ -1,0 +1,14 @@
+# Virtual environments
+.venv/
+.venv-1/
+
+# IDE
+.vscode/
+
+# Build output
+.dist/
+output/
+
+# OS files
+Thumbs.db
+.DS_Store

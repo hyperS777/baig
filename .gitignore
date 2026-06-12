@@ -10,6 +10,9 @@ c/
 # IDE
 .vscode/
 
+# Backup files
+baig_backup.html
+
 # Build output
 .dist/
 output/

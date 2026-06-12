@@ -1,3 +1,8 @@
+# Unrelated folders
+Git/
+C Code/
+c/
+
 # Virtual environments
 .venv/
 .venv-1/
